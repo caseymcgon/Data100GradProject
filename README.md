@@ -1,5 +1,5 @@
 # Data100GradProject
-Data Repository
+Data Repository with 1 Google Colab Notebook
 
 # BEFORE YOU BEGIN
 
