@@ -3,7 +3,8 @@ Data Repository
 
 # BEFORE YOU BEGIN
 
-Note: Every file in this Repo (except DS100GradProject) is just a csv copied from BasketballReference.com -- They were then imported from this repo to our Google Colab Notebook where we wrote and ran our code 
+Note: Every file in this Repo (except DS100GradProject.ipnyb) is just a csv copied from BasketballReference.com -- They were then imported from this repo to our Google Colab Notebook where we wrote and ran our code.
+In other words, DS100GradProject.ipnyb is where all our code is written and run. T
 
 
 # DESCRIPTION
