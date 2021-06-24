@@ -1,5 +1,6 @@
 # Data100GradProject
-Data Repository with 1 Google Colab Notebook
+Our work can be found in DS100GradProject.ipynb -- this is the file you should check out
+
 
 # BEFORE YOU BEGIN
 
