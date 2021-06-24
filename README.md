@@ -1,5 +1,5 @@
 # Data100GradProject
-Our work can be found in DS100GradProject.ipynb -- this is the file you should check out
+Our work can be found in **DS100GradProject.ipynb** -- this is the file you should check out
 
 
 # BEFORE YOU BEGIN
